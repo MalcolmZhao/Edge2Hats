@@ -22,9 +22,6 @@ Welcome to the Edge2Hats GitHub repository! This project leverages Conditional G
 - **edge2hats_product_demo_video.mp4**: A demo video showcasing the product functionality.
 
 ## Dependencies
-
-To run this project, you will need to install the following packages:
-
 - Python 3.7 or higher
 - **Jupyter Notebook**: For running and developing notebooks.
 - **Selenium**: For web scraping and data extraction from Amazon.
@@ -35,12 +32,7 @@ To run this project, you will need to install the following packages:
 - **numpy**: For numerical computations.
 - **pandas**: For data manipulation and analysis.
 - **matplotlib**: For plotting and visualization.
-
-You can install these dependencies using pip:
-
-```bash
-pip install jupyter selenium torch torchvision tkinter gradio opencv-python numpy pandas matplotlib
-```
+- Other dependencies as listed in individual scripts
 
 ## Project Overview
 
